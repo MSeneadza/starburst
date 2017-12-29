@@ -16,7 +16,7 @@ spec/dummy/log/test.log
 
 *.log
 
-*.log
+.idea
 
 spec/dummy/log/development.log
 
